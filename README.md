@@ -8,6 +8,6 @@ AndrewNg-ML-using-Python
 ----
 ### 中文翻译、ppt、作业python代码等等
 https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
-### 大牛写的作业
+### 作业参考
 https://github.com/kaleko/CourseraML
 
